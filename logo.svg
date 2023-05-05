@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="37.9993" y1="189.4466" x2="478.0473" y2="443.1059">
+		<stop  offset="0" style="stop-color:#D4009A"/>
+		<stop  offset="1" style="stop-color:#0055FF"/>
+	</linearGradient>
+	<path class="st0" d="M469.1,171.4l-14.3-5.6L192.6,63.3v385.4h293.2c3.1-0.1,6.2-0.2,9.2-0.3V181.5L469.1,171.4z M229.5,427.8
+		V186.5l13.9,5.2v236.2H229.5z M259.4,427.8V197.5l17.6,6.6v223.8H259.4z M293.1,428.1V210l17.6,6.6v211.5H293.1z M326.8,428.1
+		V222.4l17.6,6.6v199.1H326.8z M360.5,428.1V234.9l17.6,6.6v186.6H360.5z M394.2,428.1V247.3l17.6,6.6v174.2H394.2z M427.8,427.8
+		V259.6l17.6,6.6v161.7H427.8z M16.9,181.5v267.1h167.5V63.3L16.9,181.5z"/>
+</g>
+<g>
+	<polygon class="st1" points="445.4,266.2 445.4,427.8 427.8,427.8 427.8,259.6 	"/>
+	<polygon class="st1" points="411.8,253.9 411.8,428.1 394.2,428.1 394.2,247.3 	"/>
+	<polygon class="st1" points="378.1,241.5 378.1,428.1 360.5,428.1 360.5,234.9 	"/>
+	<polygon class="st1" points="344.4,229 344.4,428.1 326.8,428.1 326.8,222.4 	"/>
+	<polygon class="st1" points="310.7,216.6 310.7,428.1 293.1,428.1 293.1,210 	"/>
+	<polygon class="st1" points="277,204.1 277,427.8 259.4,427.8 259.4,197.5 	"/>
+	<polygon class="st1" points="243.4,191.6 243.4,427.8 229.5,427.8 229.5,186.5 	"/>
+</g>
+<path class="st1" d="M188.2,58.5v-0.1l-0.1,0.1l-0.2-0.1v0.2L13.6,181.7v271.9h174.3h0.3h297l0.1,0c3.1-0.1,6.2-0.2,9.2-0.3l3.9-0.1
+	V179.7L188.2,58.5z M180.3,445.6H21.6V185.8l158.7-112V445.6z M490.4,445.4c-1.7,0.1-3.5,0.1-5.3,0.2H195.9V70.1l294.5,115.1V445.4z
+	"/>
+</svg>
